@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="PreviewChatTab">
+        <State />
+      </entry>
+      <entry key="PreviewChatTab (1)">
+        <State />
+      </entry>
+      <entry key="PreviewChatUI">
+        <State />
+      </entry>
+      <entry key="PreviewMessageField">
+        <State />
+      </entry>
+      <entry key="PreviewMessageHistory">
+        <State />
+      </entry>
+      <entry key="app">
+        <State />
+      </entry>
+      <entry key="data">
+        <State />
+      </entry>
+      <entry key="domain">
+        <State />
+      </entry>
+      <entry key="presentation">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
